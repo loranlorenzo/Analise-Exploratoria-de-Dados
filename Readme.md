@@ -1,0 +1,2 @@
+Olá! Esse projeto é uma Análise Exploratória de Dados utilizando (Python) juntamente com a ferramenta (Jupyter Notebook) com um conjunto de Dados históricos sobre causas de mortes em todo o mundo entre 1990 e 2019 sobre todas as idades.
+Base de dados retirada do (https://www.kaggle.com/)
